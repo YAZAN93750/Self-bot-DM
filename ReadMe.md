@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 YZN Auto DM System
+# 🤖 YZN Auto DM Self Bot
 ### "Advanced Discord Self-Bot for Automated Responses"
 
 ![Static Badge](https://img.shields.io/badge/Status-Active-brightgreen)
